@@ -24,6 +24,7 @@ body {
   width: 320px;
   height: 100%;
 }
+
 .robot-brain,
 .robot-body {
   width: 320px;
@@ -59,13 +60,11 @@ body {
 .robot:hover .robot-head-right {
   position: absolute;
   left: 55%;
-  top: 10%;
 }
 
 .robot:hover .robot-head-left {
   position: absolute;
   right: 55%;
-  top: 10%;
 }
 
 .robot:hover .robot-brain {
